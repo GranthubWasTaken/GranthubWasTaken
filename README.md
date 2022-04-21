@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @GranthubWasTaken
-- 👀 I’m interested in evaluating basketball data
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 Reach out to me at gtbryant97@gmail.com
+- 📫 Always welcoming criticism and questions
+- interested in evaluating basketball data
+
 
 <!---
 GranthubWasTaken/GranthubWasTaken is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
