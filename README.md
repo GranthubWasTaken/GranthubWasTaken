@@ -1,3 +1,5 @@
+Computer Science graduate from UTSA (concentration in cybersecurity) 
+
 - 📫 Reach out to me at gtbryant97@gmail.com
 - 📫 Always welcoming criticism and questions
 - interested in evaluating basketball data
